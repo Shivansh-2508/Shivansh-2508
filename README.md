@@ -21,4 +21,3 @@ Hi there! I'm Shivansh Kukreti 👋<br><br>About Me<br>I'm a passionate web deve
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
