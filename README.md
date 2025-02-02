@@ -1,5 +1,17 @@
+Hi there! I'm Shivansh Kukreti 👋
+About Me
+I'm a passionate web developer, SaaS founder, and tech enthusiast currently pursuing a B.Tech at Pillai College Of Engineering. With a strong foundation in JavaScript I specialize in crafting engaging user experiences and transforming ideas into websites.
 
-Hi there! I'm Shivansh Kukreti 👋<br><br>About Me<br>I'm a passionate web developer currently pursuing a B.Tech at Pillai College Of Engineering. With a strong foundation in HTML, CSS, and JavaScript, I specialize in crafting engaging user experiences and transforming ideas into visually stunning websites. I'm currently focusing on mastering the MERN (MongoDB, Express.js, React.js, Node.js) stack to build dynamic and scalable web solutions.
+
+I'm currently:
+
+Mastering the MERN (MongoDB, Express.js, React.js, Node.js) stack to build dynamic and scalable web solutions.
+
+Expanding my knowledge in AI/ML and DBMS for my major engineering project.
+
+Leading my SaaS startup, currently serving 4-5 clients.
+
+Exploring Python and Golang.
 
 
 ## 🌐 Socials:
